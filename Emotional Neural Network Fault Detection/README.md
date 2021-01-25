@@ -9,7 +9,7 @@ was proposed considering human anxiety and confidence.
 	Copyright (C) 2015 Masoud Moghaddasi
 	This software is distributed under the GNU General Public Licence V2
 #
-##   Refference:
+##   Refferences:
 	[1]   Khashman, A ,” Modeling cognitive and emotional processes: A novel neural network architecture Neural Networks 23 (2010) 1155–1163.
 	[2]   Khashman, A ,” A modified back propagation learning algorithm with added emotional coefficients”. IEEE Transactions on Neural Networks, 19(11), 1896–1909.
 
